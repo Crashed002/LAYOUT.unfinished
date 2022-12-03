@@ -1,0 +1,85 @@
+.logo-docplanner{
+    width: 20%;
+    height:20%; 
+}
+.healthcare{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.head ul{
+    display: flex;
+    list-style: none;
+}bnfn
+
+.head ul li{
+    margin-left: 10px;
+}
+
+.head ul li a{
+    text-decoration: none;
+    color: rgb(54, 54, 31);
+}
+.logo{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.making{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+.making h1{
+    font-size: 35px;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    font-weight: 100;
+    color: #00b39b;
+}
+.pss{
+    display: flex;
+    font-size: large;
+    word-spacing: normal;
+    line-height: 25px;
+    justify-content: space-between;
+    
+}
+.pss p{
+    width: 48%;
+}
+.card{
+    width: 30% ;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.card_green{
+    background-color:#00b39b;
+}
+.card_blue{
+    background-color: rgb(60, 60, 236);
+}
+.card_black{
+    background-color: rgb(95, 93, 93);
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.tout{
+    display: flex;
+    
+}
+.forr{
+    display: flex;
+    
+}
